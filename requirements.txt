@@ -1,6 +1,0 @@
-# Specialist source-separation test dependencies (CPU)audio-separator[cpu]
-demucs
-torch
-torchaudio
-TorchCodec
-numpy
